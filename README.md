@@ -1,3 +1,5 @@
+### ⚠️ This is a fork of the fork [react-native-fast-image](https://github.com/dream-sports-labs/react-native-fast-image). All credit goes to the original author.
+
 ### ⚠️ This is a fork of [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image). All credit goes to the original author.
 
 <h1 align="center">
